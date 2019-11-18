@@ -275,7 +275,7 @@
         "    <div class=\"collapse\" id=\"authPages\">\n" +
         "    <ul class=\"nav sub-menu\">\n" +
         "    <li class=\"nav-item\">\n" +
-        "    <a href=\"pages/auth/login.html\" class=\"nav-link\">Login</a>\n" +
+        "    <a href=\"/uos/uos-backstage-web/static/nobleuimo/backstage/pages/auth/login.html\" class=\"nav-link\">Login</a>\n" +
         "    </li>\n" +
         "    <li class=\"nav-item\">\n" +
         "    <a href=\"pages/auth/register.html\" class=\"nav-link\">Register</a>\n" +
